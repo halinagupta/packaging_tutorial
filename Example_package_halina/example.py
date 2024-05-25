@@ -6,3 +6,5 @@ def multnumbers(x,y):
     return x*y
 def divnumbers(x,y):
     return x/y
+def findexpo(x,y):
+    return x**y
