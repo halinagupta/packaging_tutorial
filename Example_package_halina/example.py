@@ -8,3 +8,5 @@ def divnumbers(x,y):
     return x/y
 def findexpo(x,y):
     return x**y
+def findroot(x):
+    return x**0.5
